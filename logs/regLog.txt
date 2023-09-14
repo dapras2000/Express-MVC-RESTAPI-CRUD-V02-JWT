@@ -57,3 +57,10 @@
 20230913	16:50:34	65500e5d-1206-4b1e-9852-e9289a4c3930	DELETE	undefined	/employees/2
 20230913	16:51:11	2a21a144-5b8a-4c72-93e5-8679be1b8e78	DELETE	undefined	/employees/
 20230913	16:52:09	d927f08c-b209-4855-9df8-a102f1d4394c	POST	undefined	/employees/
+20230913	17:35:43	c554a93d-43b8-44ec-a6f4-353873bdbe9f	POST	undefined	/register
+20230913	17:37:05	d1cf6ef6-4574-4421-b51c-e46810d89859	POST	undefined	/register
+20230913	17:37:32	b4d96e07-518e-4039-8130-3bf37fe12ccf	POST	undefined	/register
+20230913	18:19:09	a7fbc6e1-f6d7-418c-a436-c9fd14e73fa2	POST	undefined	/register
+20230913	18:19:17	d68ae2bd-5cbe-4132-bfae-9953af2e4e13	POST	undefined	/register
+20230914	08:09:17	a63715ab-db6a-481f-a6ad-eb328743202b	POST	undefined	/auth
+20230914	08:09:26	174f6efe-5597-4241-942b-9a3f87dc44f9	POST	undefined	/auth
